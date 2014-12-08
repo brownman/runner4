@@ -7,3 +7,8 @@
 runner4
 =======
 - inherit from docker-ruby that inherit from docker-mean
+
+
+steps
+---
+- mv /opt/myApp to /docker/opt
